@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi, I'm Miriko 👋
 
-<!--
-**DOh1221/DOh1221** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Java developer exploring networking stacks and Minecraft internals.  
+I work on mods, plugins, and networking tools for Minecraft — from **Beta 1.7.3** to the latest versions.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 What I Work With
+
+- 💻 **Networking:** TCP, UDP, WebSocket, Netty, Vert.x  
+- 🎮 **Minecraft:** Bukkit/Spigot/Fabric/Forge, NMS, packet manipulation  
+- ⚡ **Performance & Optimization:** server-side, async tasks, multithreading  
+- 🧩 **Legacy Support:** old versions, backward compatibility  
+
+---
+
+## 🔧 Skills
+
+| Tech | Level |
+|------|-------|
+| Java | 🔹🔹🔹◯◯ |
+| Netty / TCP / UDP | 🔹🔹🔹🔹◯ |
+| Minecraft Modding (Bukkit / Forge / Spigot / Fabric) | 🔹🔹🔹◯◯ |
+| Multithreading / Async | 🔹🔹◯◯◯ |
+| NBT & Packet Handling | 🔹🔹🔹🔹◯ |
+| Git / Maven / Gradle | 🔹🔹🔹◯◯ |
+
+## 📫 Contact
+
+- Discord: @jetstreambase 
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DOh1221&show_icons=true&theme=tokyonight&count_private=true" alt="GitHub Stats" />
+</p>
